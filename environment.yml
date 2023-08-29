@@ -1,0 +1,13 @@
+name: LUDe
+channels:
+- rdkit
+- conda-forge
+- openbabel
+- defaults
+dependencies:
+    - openbabel
+    - pip
+    - pip:
+        - rdkit-pypi
+
+
