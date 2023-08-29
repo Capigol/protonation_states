@@ -1,0 +1,6 @@
+numpy
+pandas
+Pillow
+streamlit
+openbabel-wheel
+rdkit
