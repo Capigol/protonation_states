@@ -1,6 +1,5 @@
 numpy
 pandas
-libxrender1
 Pillow
 streamlit
 openbabel-wheel
